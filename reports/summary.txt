@@ -2,8 +2,7 @@ PROJECT: Git-based DevOps Workflow
 -------------------------------
 Git Status:
 On branch main
-Your branch is ahead of 'origin/main' by 3 commits.
-  (use "git push" to publish your local commits)
+Your branch is up to date with 'origin/main'.
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
@@ -13,6 +12,7 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 
 Recent Commits:
+c94d851 2nd commit
 cab9d85 first commit
 7e9ea59 change in feature branch
 23d9ee3 changes in feature branch.
